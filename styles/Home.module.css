@@ -36,7 +36,7 @@
 }
 
 .title a {
-  color: #0070f3;
+  color: #5B866B;
   text-decoration: none;
 }
 
@@ -67,8 +67,7 @@
   border-radius: 5px;
   padding: 0.75rem;
   font-size: 1.1rem;
-  font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono,
-    Bitstream Vera Sans Mono, Courier New, monospace;
+  font-family: system-ui;
 }
 
 .grid {
@@ -95,8 +94,8 @@
 .card:hover,
 .card:focus,
 .card:active {
-  color: #0070f3;
-  border-color: #0070f3;
+  color: #5B866B;
+  border-color: #5B866B;
 }
 
 .card h3 {
