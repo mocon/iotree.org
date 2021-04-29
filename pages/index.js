@@ -36,7 +36,7 @@ export default function Home() {
             className={styles.card}
           >
             <h3>Examples &rarr;</h3>
-            <p>Browse the trees.</p>
+            <p>Browse the trees by location, species, and rarity.</p>
           </a>
 
           <a
@@ -45,7 +45,7 @@ export default function Home() {
           >
             <h3>Purchase a tree</h3>
             <p>
-              Let's get started.
+              Let's get started. You might even get a carbon credit.
             </p>
           </a>
         </div>
@@ -53,7 +53,7 @@ export default function Home() {
 
       <footer className={styles.footer}>
         <p>
-          &copy; {currentYear} ioTree
+          &copy; {currentYear} ioTree.org
         </p>
       </footer>
     </div>
