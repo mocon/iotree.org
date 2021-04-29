@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://iotree.org">ioTree</a>
+          🌳 Welcome to <a href="https://iotree.org">ioTree</a>
         </h1>
 
         <p className={styles.description}>
@@ -43,7 +43,7 @@ export default function Home() {
             href="https://vercel.com/import?filter=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
             className={styles.card}
           >
-            <h3>Purchase a tree</h3>
+            <h3>Purchase a tree &rarr;</h3>
             <p>
               Let's get started. You might even get a carbon credit.
             </p>
