@@ -17,7 +17,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Purchase one or many trees, and prove your unique ownership with NFTs.
+          Purchase one or many trees, and prove your unique ownership with an NFT.
         </p>
 
         <div className={styles.grid}>
